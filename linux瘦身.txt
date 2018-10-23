@@ -1,0 +1,4 @@
+cat /dev/zero > zero.fill
+rm -rf zero.fill
+windows cmd中执行
+vmware-vdiskmanager.exe -k 虚拟机路径/虚拟机的名字.vmdk
