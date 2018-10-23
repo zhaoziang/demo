@@ -5,3 +5,4 @@ vmware-vdiskmanager.exe -k 虚拟机路径/虚拟机的名字.vmdk
 
 
 aa
+bb
